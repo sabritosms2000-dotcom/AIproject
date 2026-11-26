@@ -1,0 +1,561 @@
+﻿Video_Path,SignID,Arabic_Label,English_Label
+sample_download\extracted\0001\01_02_0001_(15_11_16_16_41_12)_c.mp4,1,صفر,0
+sample_download\extracted\0001\01_02_0001_(15_11_16_16_41_48)_c.mp4,1,صفر,0
+sample_download\extracted\0001\01_02_0001_(15_11_16_16_41_56)_c.mp4,1,صفر,0
+sample_download\extracted\0001\01_02_0001_(16_11_16_15_50_08)_c.mp4,1,صفر,0
+sample_download\extracted\0001\01_02_0001_(16_11_16_15_50_13)_c.mp4,1,صفر,0
+sample_download\extracted\0001\01_02_0001_(16_11_16_15_50_24)_c.mp4,1,صفر,0
+sample_download\extracted\0001\01_02_0001_(16_11_16_15_50_39)_c.mp4,1,صفر,0
+sample_download\extracted\0001\01_02_0001_(16_11_16_15_50_51)_c.mp4,1,صفر,0
+sample_download\extracted\0002\01_02_0002_(15_11_16_16_42_51)_c.mp4,2,واحد,1
+sample_download\extracted\0002\01_02_0002_(15_11_16_16_42_53)_c.mp4,2,واحد,1
+sample_download\extracted\0002\01_02_0002_(15_11_16_16_43_02)_c.mp4,2,واحد,1
+sample_download\extracted\0002\01_02_0002_(15_11_16_16_43_07)_c.mp4,2,واحد,1
+sample_download\extracted\0002\01_02_0002_(15_11_16_16_43_12)_c.mp4,2,واحد,1
+sample_download\extracted\0002\01_02_0002_(15_11_16_16_43_27)_c.mp4,2,واحد,1
+sample_download\extracted\0002\01_02_0002_(16_11_16_15_51_14)_c.mp4,2,واحد,1
+sample_download\extracted\0002\01_02_0002_(16_11_16_15_51_54)_c.mp4,2,واحد,1
+sample_download\extracted\0003\01_02_0003_(15_11_16_16_44_06)_c.mp4,3,اثنان,2
+sample_download\extracted\0003\01_02_0003_(15_11_16_16_44_25)_c.mp4,3,اثنان,2
+sample_download\extracted\0003\01_02_0003_(15_11_16_16_44_26)_c.mp4,3,اثنان,2
+sample_download\extracted\0003\01_02_0003_(15_11_16_16_44_37)_c.mp4,3,اثنان,2
+sample_download\extracted\0003\01_02_0003_(15_11_16_16_44_41)_c.mp4,3,اثنان,2
+sample_download\extracted\0003\01_02_0003_(16_11_16_15_52_09)_c.mp4,3,اثنان,2
+sample_download\extracted\0003\01_02_0003_(16_11_16_15_52_16)_c.mp4,3,اثنان,2
+sample_download\extracted\0003\01_02_0003_(16_11_16_15_52_22)_c.mp4,3,اثنان,2
+sample_download\extracted\0004\01_02_0004_(15_11_16_16_44_59)_c.mp4,4,ثلاثة,3
+sample_download\extracted\0004\01_02_0004_(15_11_16_16_45_07)_c.mp4,4,ثلاثة,3
+sample_download\extracted\0004\01_02_0004_(15_11_16_16_45_09)_c.mp4,4,ثلاثة,3
+sample_download\extracted\0004\01_02_0004_(15_11_16_16_45_15)_c.mp4,4,ثلاثة,3
+sample_download\extracted\0004\01_02_0004_(15_11_16_16_45_26)_c.mp4,4,ثلاثة,3
+sample_download\extracted\0004\01_02_0004_(15_11_16_16_45_38)_c.mp4,4,ثلاثة,3
+sample_download\extracted\0004\01_02_0004_(16_11_16_15_53_24)_c.mp4,4,ثلاثة,3
+sample_download\extracted\0004\01_02_0004_(16_11_16_15_53_26)_c.mp4,4,ثلاثة,3
+sample_download\extracted\0005\01_02_0005_(15_11_16_16_45_53)_c.mp4,5,أربعة,4
+sample_download\extracted\0005\01_02_0005_(15_11_16_16_45_55)_c.mp4,5,أربعة,4
+sample_download\extracted\0005\01_02_0005_(15_11_16_16_46_05)_c.mp4,5,أربعة,4
+sample_download\extracted\0005\01_02_0005_(15_11_16_16_46_24)_c.mp4,5,أربعة,4
+sample_download\extracted\0005\01_02_0005_(15_11_16_16_46_27)_c.mp4,5,أربعة,4
+sample_download\extracted\0005\01_02_0005_(15_11_16_16_46_36)_c.mp4,5,أربعة,4
+sample_download\extracted\0005\01_02_0005_(16_11_16_15_54_56)_c.mp4,5,أربعة,4
+sample_download\extracted\0005\01_02_0005_(16_11_16_15_54_58)_c.mp4,5,أربعة,4
+sample_download\extracted\0006\01_02_0006_(15_11_16_16_46_57)_c.mp4,6,خمسة,5
+sample_download\extracted\0006\01_02_0006_(15_11_16_16_47_08)_c.mp4,6,خمسة,5
+sample_download\extracted\0006\01_02_0006_(15_11_16_16_47_12)_c.mp4,6,خمسة,5
+sample_download\extracted\0006\01_02_0006_(15_11_16_16_47_38)_c.mp4,6,خمسة,5
+sample_download\extracted\0006\01_02_0006_(16_11_16_15_55_18)_c.mp4,6,خمسة,5
+sample_download\extracted\0006\01_02_0006_(16_11_16_15_55_29)_c.mp4,6,خمسة,5
+sample_download\extracted\0006\01_02_0006_(16_11_16_15_55_59)_c.mp4,6,خمسة,5
+sample_download\extracted\0006\01_02_0006_(16_11_16_15_56_07)_c.mp4,6,خمسة,5
+sample_download\extracted\0007\01_02_0007_(15_11_16_16_48_08)_c.mp4,7,ستة,6
+sample_download\extracted\0007\01_02_0007_(15_11_16_16_48_12)_c.mp4,7,ستة,6
+sample_download\extracted\0007\01_02_0007_(15_11_16_16_48_48)_c.mp4,7,ستة,6
+sample_download\extracted\0007\01_02_0007_(15_11_16_16_48_50)_c.mp4,7,ستة,6
+sample_download\extracted\0007\01_02_0007_(16_11_16_15_56_35)_c.mp4,7,ستة,6
+sample_download\extracted\0007\01_02_0007_(16_11_16_15_56_49)_c.mp4,7,ستة,6
+sample_download\extracted\0007\01_02_0007_(16_11_16_15_56_51)_c.mp4,7,ستة,6
+sample_download\extracted\0007\01_02_0007_(16_11_16_15_57_14)_c.mp4,7,ستة,6
+sample_download\extracted\0008\01_02_0008_(15_11_16_16_49_43)_c.mp4,8,سبعة,7
+sample_download\extracted\0008\01_02_0008_(15_11_16_16_49_52)_c.mp4,8,سبعة,7
+sample_download\extracted\0008\01_02_0008_(16_11_16_15_57_52)_c.mp4,8,سبعة,7
+sample_download\extracted\0008\01_02_0008_(16_11_16_15_58_00)_c.mp4,8,سبعة,7
+sample_download\extracted\0008\01_02_0008_(16_11_16_15_58_02)_c.mp4,8,سبعة,7
+sample_download\extracted\0008\01_02_0008_(16_11_16_15_58_08)_c.mp4,8,سبعة,7
+sample_download\extracted\0008\01_02_0008_(16_11_16_15_58_14)_c.mp4,8,سبعة,7
+sample_download\extracted\0008\01_02_0008_(16_11_16_15_58_16)_c.mp4,8,سبعة,7
+sample_download\extracted\0009\01_02_0009_(15_11_16_16_50_34)_c.mp4,9,ثمانية,8
+sample_download\extracted\0009\01_02_0009_(15_11_16_16_50_42)_c.mp4,9,ثمانية,8
+sample_download\extracted\0009\01_02_0009_(15_11_16_16_51_08)_c.mp4,9,ثمانية,8
+sample_download\extracted\0009\01_02_0009_(15_11_16_16_51_09)_c.mp4,9,ثمانية,8
+sample_download\extracted\0009\01_02_0009_(15_11_16_16_51_12)_c.mp4,9,ثمانية,8
+sample_download\extracted\0009\01_02_0009_(16_11_16_15_58_34)_c.mp4,9,ثمانية,8
+sample_download\extracted\0009\01_02_0009_(16_11_16_15_58_43)_c.mp4,9,ثمانية,8
+sample_download\extracted\0009\01_02_0009_(16_11_16_15_59_10)_c.mp4,9,ثمانية,8
+sample_download\extracted\0010\01_02_0010_(15_11_16_16_52_13)_c.mp4,10,تسعة,9
+sample_download\extracted\0010\01_02_0010_(15_11_16_16_52_19)_c.mp4,10,تسعة,9
+sample_download\extracted\0010\01_02_0010_(15_11_16_16_52_29)_c.mp4,10,تسعة,9
+sample_download\extracted\0010\01_02_0010_(15_11_16_16_52_32)_c.mp4,10,تسعة,9
+sample_download\extracted\0010\01_02_0010_(15_11_16_16_52_46)_c.mp4,10,تسعة,9
+sample_download\extracted\0010\01_02_0010_(15_11_16_16_52_52)_c.mp4,10,تسعة,9
+sample_download\extracted\0010\01_02_0010_(16_11_16_15_59_35)_c.mp4,10,تسعة,9
+sample_download\extracted\0010\01_02_0010_(16_11_16_15_59_46)_c.mp4,10,تسعة,9
+sample_download\extracted\0011\01_02_0011_(15_11_16_16_54_06)_c.mp4,11,عشرة,10
+sample_download\extracted\0011\01_02_0011_(15_11_16_16_54_24)_c.mp4,11,عشرة,10
+sample_download\extracted\0011\01_02_0011_(16_11_16_16_00_38)_c.mp4,11,عشرة,10
+sample_download\extracted\0011\01_02_0011_(16_11_16_16_00_58)_c.mp4,11,عشرة,10
+sample_download\extracted\0011\01_02_0011_(16_11_16_16_01_00)_c.mp4,11,عشرة,10
+sample_download\extracted\0011\01_02_0011_(16_11_16_16_01_09)_c.mp4,11,عشرة,10
+sample_download\extracted\0011\01_02_0011_(16_11_16_16_01_28)_c.mp4,11,عشرة,10
+sample_download\extracted\0011\01_02_0011_(16_11_16_16_01_31)_c.mp4,11,عشرة,10
+sample_download\extracted\0012\01_02_0012_(15_11_16_17_14_10)_c.mp4,12,عشرون,20
+sample_download\extracted\0012\01_02_0012_(15_11_16_17_14_22)_c.mp4,12,عشرون,20
+sample_download\extracted\0012\01_02_0012_(15_11_16_17_14_28)_c.mp4,12,عشرون,20
+sample_download\extracted\0012\01_02_0012_(15_11_16_17_14_51)_c.mp4,12,عشرون,20
+sample_download\extracted\0012\01_02_0012_(16_11_16_16_02_30)_c.mp4,12,عشرون,20
+sample_download\extracted\0012\01_02_0012_(16_11_16_16_02_32)_c.mp4,12,عشرون,20
+sample_download\extracted\0012\01_02_0012_(16_11_16_16_02_59)_c.mp4,12,عشرون,20
+sample_download\extracted\0012\01_02_0012_(16_11_16_16_03_11)_c.mp4,12,عشرون,20
+sample_download\extracted\0013\01_02_0013_(15_11_16_17_15_20)_c.mp4,13,ثلاثون,30
+sample_download\extracted\0013\01_02_0013_(15_11_16_17_15_41)_c.mp4,13,ثلاثون,30
+sample_download\extracted\0013\01_02_0013_(15_11_16_17_16_19)_c.mp4,13,ثلاثون,30
+sample_download\extracted\0013\01_02_0013_(16_11_16_16_03_34)_c.mp4,13,ثلاثون,30
+sample_download\extracted\0013\01_02_0013_(16_11_16_16_03_55)_c.mp4,13,ثلاثون,30
+sample_download\extracted\0013\01_02_0013_(16_11_16_16_04_09)_c.mp4,13,ثلاثون,30
+sample_download\extracted\0013\01_02_0013_(16_11_16_16_04_16)_c.mp4,13,ثلاثون,30
+sample_download\extracted\0013\01_02_0013_(16_11_16_16_04_22)_c.mp4,13,ثلاثون,30
+sample_download\extracted\0014\01_02_0014_(15_11_16_17_16_41)_c.mp4,14,أربعون,40
+sample_download\extracted\0014\01_02_0014_(15_11_16_17_16_55)_c.mp4,14,أربعون,40
+sample_download\extracted\0014\01_02_0014_(15_11_16_17_18_07)_c.mp4,14,أربعون,40
+sample_download\extracted\0014\01_02_0014_(16_11_16_16_05_18)_c.mp4,14,أربعون,40
+sample_download\extracted\0014\01_02_0014_(16_11_16_16_05_38)_c.mp4,14,أربعون,40
+sample_download\extracted\0014\01_02_0014_(16_11_16_16_05_44)_c.mp4,14,أربعون,40
+sample_download\extracted\0014\01_02_0014_(16_11_16_16_05_52)_c.mp4,14,أربعون,40
+sample_download\extracted\0014\01_02_0014_(16_11_16_16_06_01)_c.mp4,14,أربعون,40
+sample_download\extracted\0015\01_02_0015_(15_11_16_17_20_02)_c.mp4,15,خمسون,50
+sample_download\extracted\0015\01_02_0015_(15_11_16_17_20_05)_c.mp4,15,خمسون,50
+sample_download\extracted\0015\01_02_0015_(16_11_16_16_06_24)_c.mp4,15,خمسون,50
+sample_download\extracted\0015\01_02_0015_(16_11_16_16_06_42)_c.mp4,15,خمسون,50
+sample_download\extracted\0015\01_02_0015_(16_11_16_16_06_45)_c.mp4,15,خمسون,50
+sample_download\extracted\0015\01_02_0015_(16_11_16_16_06_47)_c.mp4,15,خمسون,50
+sample_download\extracted\0015\01_02_0015_(16_11_16_16_07_02)_c.mp4,15,خمسون,50
+sample_download\extracted\0015\01_02_0015_(16_11_16_16_07_23)_c.mp4,15,خمسون,50
+sample_download\extracted\0016\01_02_0016_(15_11_16_17_20_29)_c.mp4,16,ستون,60
+sample_download\extracted\0016\01_02_0016_(15_11_16_17_20_45)_c.mp4,16,ستون,60
+sample_download\extracted\0016\01_02_0016_(15_11_16_17_21_18)_c.mp4,16,ستون,60
+sample_download\extracted\0016\01_02_0016_(15_11_16_17_21_26)_c.mp4,16,ستون,60
+sample_download\extracted\0016\01_02_0016_(16_11_16_16_07_40)_c.mp4,16,ستون,60
+sample_download\extracted\0016\01_02_0016_(16_11_16_16_07_59)_c.mp4,16,ستون,60
+sample_download\extracted\0016\01_02_0016_(16_11_16_16_08_02)_c.mp4,16,ستون,60
+sample_download\extracted\0016\01_02_0016_(16_11_16_16_08_07)_c.mp4,16,ستون,60
+sample_download\extracted\0017\01_02_0017_(15_11_16_17_21_58)_c.mp4,17,سبعون,70
+sample_download\extracted\0017\01_02_0017_(15_11_16_17_22_10)_c.mp4,17,سبعون,70
+sample_download\extracted\0017\01_02_0017_(15_11_16_17_22_29)_c.mp4,17,سبعون,70
+sample_download\extracted\0017\01_02_0017_(15_11_16_17_22_40)_c.mp4,17,سبعون,70
+sample_download\extracted\0017\01_02_0017_(15_11_16_17_22_50)_c.mp4,17,سبعون,70
+sample_download\extracted\0017\01_02_0017_(15_11_16_17_22_53)_c.mp4,17,سبعون,70
+sample_download\extracted\0017\01_02_0017_(16_11_16_16_08_59)_c.mp4,17,سبعون,70
+sample_download\extracted\0017\01_02_0017_(16_11_16_16_09_02)_c.mp4,17,سبعون,70
+sample_download\extracted\0018\01_02_0018_(15_11_16_17_23_50)_c.mp4,18,ثمانون,80
+sample_download\extracted\0018\01_02_0018_(15_11_16_17_24_13)_c.mp4,18,ثمانون,80
+sample_download\extracted\0018\01_02_0018_(16_11_16_16_10_14)_c.mp4,18,ثمانون,80
+sample_download\extracted\0018\01_02_0018_(16_11_16_16_10_31)_c.mp4,18,ثمانون,80
+sample_download\extracted\0018\01_02_0018_(16_11_16_16_10_33)_c.mp4,18,ثمانون,80
+sample_download\extracted\0018\01_02_0018_(16_11_16_16_10_41)_c.mp4,18,ثمانون,80
+sample_download\extracted\0018\01_02_0018_(16_11_16_16_10_49)_c.mp4,18,ثمانون,80
+sample_download\extracted\0018\01_02_0018_(16_11_16_16_10_52)_c.mp4,18,ثمانون,80
+sample_download\extracted\0019\01_02_0019_(15_11_16_17_25_11)_c.mp4,19,تسعون,90
+sample_download\extracted\0019\01_02_0019_(15_11_16_17_25_46)_c.mp4,19,تسعون,90
+sample_download\extracted\0019\01_02_0019_(15_11_16_17_25_49)_c.mp4,19,تسعون,90
+sample_download\extracted\0019\01_02_0019_(15_11_16_17_26_06)_c.mp4,19,تسعون,90
+sample_download\extracted\0019\01_02_0019_(16_11_16_16_11_29)_c.mp4,19,تسعون,90
+sample_download\extracted\0019\01_02_0019_(16_11_16_16_11_32)_c.mp4,19,تسعون,90
+sample_download\extracted\0019\01_02_0019_(16_11_16_16_12_13)_c.mp4,19,تسعون,90
+sample_download\extracted\0019\01_02_0019_(16_11_16_16_12_59)_c.mp4,19,تسعون,90
+sample_download\extracted\0020\01_02_0020_(15_11_16_17_27_12)_c.mp4,20,مئة,100
+sample_download\extracted\0020\01_02_0020_(15_11_16_17_27_19)_c.mp4,20,مئة,100
+sample_download\extracted\0020\01_02_0020_(16_11_16_16_13_33)_c.mp4,20,مئة,100
+sample_download\extracted\0020\01_02_0020_(16_11_16_16_13_35)_c.mp4,20,مئة,100
+sample_download\extracted\0020\01_02_0020_(16_11_16_16_13_37)_c.mp4,20,مئة,100
+sample_download\extracted\0020\01_02_0020_(16_11_16_16_13_38)_c.mp4,20,مئة,100
+sample_download\extracted\0020\01_02_0020_(16_11_16_16_13_42)_c.mp4,20,مئة,100
+sample_download\extracted\0020\01_02_0020_(16_11_16_16_13_53)_c.mp4,20,مئة,100
+sample_download\extracted\0021\01_02_0021_(15_11_16_17_28_16)_c.mp4,21,مئتان,200
+sample_download\extracted\0021\01_02_0021_(15_11_16_17_28_20)_c.mp4,21,مئتان,200
+sample_download\extracted\0021\01_02_0021_(15_11_16_17_28_22)_c.mp4,21,مئتان,200
+sample_download\extracted\0021\01_02_0021_(15_11_16_17_28_28)_c.mp4,21,مئتان,200
+sample_download\extracted\0021\01_02_0021_(15_11_16_17_28_38)_c.mp4,21,مئتان,200
+sample_download\extracted\0021\01_02_0021_(15_11_16_17_28_44)_c.mp4,21,مئتان,200
+sample_download\extracted\0021\01_02_0021_(15_11_16_17_28_53)_c.mp4,21,مئتان,200
+sample_download\extracted\0021\01_02_0021_(16_11_16_16_14_57)_c.mp4,21,مئتان,200
+sample_download\extracted\0022\01_02_0022_(15_11_16_17_29_52)_c.mp4,22,ثلاثمئة,300
+sample_download\extracted\0022\01_02_0022_(15_11_16_17_30_00)_c.mp4,22,ثلاثمئة,300
+sample_download\extracted\0022\01_02_0022_(16_11_16_16_15_26)_c.mp4,22,ثلاثمئة,300
+sample_download\extracted\0022\01_02_0022_(16_11_16_16_15_35)_c.mp4,22,ثلاثمئة,300
+sample_download\extracted\0022\01_02_0022_(16_11_16_16_15_53)_c.mp4,22,ثلاثمئة,300
+sample_download\extracted\0022\01_02_0022_(16_11_16_16_15_55)_c.mp4,22,ثلاثمئة,300
+sample_download\extracted\0022\01_02_0022_(16_11_16_16_15_57)_c.mp4,22,ثلاثمئة,300
+sample_download\extracted\0022\01_02_0022_(16_11_16_16_16_00)_c.mp4,22,ثلاثمئة,300
+sample_download\extracted\0023\01_02_0023_(15_11_16_17_30_30)_c.mp4,23,أربعمئة,400
+sample_download\extracted\0023\01_02_0023_(15_11_16_17_30_48)_c.mp4,23,أربعمئة,400
+sample_download\extracted\0023\01_02_0023_(15_11_16_17_30_50)_c.mp4,23,أربعمئة,400
+sample_download\extracted\0023\01_02_0023_(15_11_16_17_30_56)_c.mp4,23,أربعمئة,400
+sample_download\extracted\0023\01_02_0023_(15_11_16_17_31_02)_c.mp4,23,أربعمئة,400
+sample_download\extracted\0023\01_02_0023_(16_11_16_16_16_24)_c.mp4,23,أربعمئة,400
+sample_download\extracted\0023\01_02_0023_(16_11_16_16_16_35)_c.mp4,23,أربعمئة,400
+sample_download\extracted\0023\01_02_0023_(16_11_16_16_16_42)_c.mp4,23,أربعمئة,400
+sample_download\extracted\0024\01_02_0024_(15_11_16_17_31_15)_c.mp4,24,خمسمئة,500
+sample_download\extracted\0024\01_02_0024_(15_11_16_17_31_19)_c.mp4,24,خمسمئة,500
+sample_download\extracted\0024\01_02_0024_(15_11_16_17_31_29)_c.mp4,24,خمسمئة,500
+sample_download\extracted\0024\01_02_0024_(15_11_16_17_31_42)_c.mp4,24,خمسمئة,500
+sample_download\extracted\0024\01_02_0024_(15_11_16_17_32_06)_c.mp4,24,خمسمئة,500
+sample_download\extracted\0024\01_02_0024_(16_11_16_16_17_40)_c.mp4,24,خمسمئة,500
+sample_download\extracted\0024\01_02_0024_(16_11_16_16_17_46)_c.mp4,24,خمسمئة,500
+sample_download\extracted\0024\01_02_0024_(16_11_16_16_18_00)_c.mp4,24,خمسمئة,500
+sample_download\extracted\0025\01_02_0025_(15_11_16_17_32_33)_c.mp4,25,ستمئة,600
+sample_download\extracted\0025\01_02_0025_(15_11_16_17_32_41)_c.mp4,25,ستمئة,600
+sample_download\extracted\0025\01_02_0025_(15_11_16_17_33_00)_c.mp4,25,ستمئة,600
+sample_download\extracted\0025\01_02_0025_(15_11_16_17_33_06)_c.mp4,25,ستمئة,600
+sample_download\extracted\0025\01_02_0025_(15_11_16_17_33_14)_c.mp4,25,ستمئة,600
+sample_download\extracted\0025\01_02_0025_(16_11_16_16_18_18)_c.mp4,25,ستمئة,600
+sample_download\extracted\0025\01_02_0025_(16_11_16_16_18_39)_c.mp4,25,ستمئة,600
+sample_download\extracted\0025\01_02_0025_(16_11_16_16_18_43)_c.mp4,25,ستمئة,600
+sample_download\extracted\0026\01_02_0026_(15_11_16_17_33_28)_c.mp4,26,سبعمئة,700
+sample_download\extracted\0026\01_02_0026_(15_11_16_17_33_54)_c.mp4,26,سبعمئة,700
+sample_download\extracted\0026\01_02_0026_(15_11_16_17_34_13)_c.mp4,26,سبعمئة,700
+sample_download\extracted\0026\01_02_0026_(15_11_16_17_34_19)_c.mp4,26,سبعمئة,700
+sample_download\extracted\0026\01_02_0026_(16_11_16_16_19_20)_c.mp4,26,سبعمئة,700
+sample_download\extracted\0026\01_02_0026_(16_11_16_16_19_26)_c.mp4,26,سبعمئة,700
+sample_download\extracted\0026\01_02_0026_(16_11_16_16_19_34)_c.mp4,26,سبعمئة,700
+sample_download\extracted\0026\01_02_0026_(16_11_16_16_19_45)_c.mp4,26,سبعمئة,700
+sample_download\extracted\0027\01_02_0027_(15_11_16_17_34_34)_c.mp4,27,ثمانمئة,800
+sample_download\extracted\0027\01_02_0027_(15_11_16_17_34_42)_c.mp4,27,ثمانمئة,800
+sample_download\extracted\0027\01_02_0027_(15_11_16_17_35_08)_c.mp4,27,ثمانمئة,800
+sample_download\extracted\0027\01_02_0027_(15_11_16_17_35_14)_c.mp4,27,ثمانمئة,800
+sample_download\extracted\0027\01_02_0027_(15_11_16_17_35_20)_c.mp4,27,ثمانمئة,800
+sample_download\extracted\0027\01_02_0027_(16_11_16_16_20_50)_c.mp4,27,ثمانمئة,800
+sample_download\extracted\0027\01_02_0027_(16_11_16_16_20_56)_c.mp4,27,ثمانمئة,800
+sample_download\extracted\0027\01_02_0027_(16_11_16_16_21_06)_c.mp4,27,ثمانمئة,800
+sample_download\extracted\0028\01_02_0028_(15_11_16_17_35_47)_c.mp4,28,تسعمئة,900
+sample_download\extracted\0028\01_02_0028_(15_11_16_17_36_00)_c.mp4,28,تسعمئة,900
+sample_download\extracted\0028\01_02_0028_(15_11_16_17_36_14)_c.mp4,28,تسعمئة,900
+sample_download\extracted\0028\01_02_0028_(15_11_16_17_36_18)_c.mp4,28,تسعمئة,900
+sample_download\extracted\0028\01_02_0028_(15_11_16_17_36_20)_c.mp4,28,تسعمئة,900
+sample_download\extracted\0028\01_02_0028_(16_11_16_16_21_56)_c.mp4,28,تسعمئة,900
+sample_download\extracted\0028\01_02_0028_(16_11_16_16_22_06)_c.mp4,28,تسعمئة,900
+sample_download\extracted\0028\01_02_0028_(16_11_16_16_22_21)_c.mp4,28,تسعمئة,900
+sample_download\extracted\0029\01_02_0029_(15_11_16_17_37_41)_c.mp4,29,ألف,1000
+sample_download\extracted\0029\01_02_0029_(15_11_16_17_37_45)_c.mp4,29,ألف,1000
+sample_download\extracted\0029\01_02_0029_(15_11_16_17_38_08)_c.mp4,29,ألف,1000
+sample_download\extracted\0029\01_02_0029_(16_11_16_16_23_05)_c.mp4,29,ألف,1000
+sample_download\extracted\0029\01_02_0029_(16_11_16_16_23_08)_c.mp4,29,ألف,1000
+sample_download\extracted\0029\01_02_0029_(16_11_16_16_23_12)_c.mp4,29,ألف,1000
+sample_download\extracted\0029\01_02_0029_(16_11_16_16_23_24)_c.mp4,29,ألف,1000
+sample_download\extracted\0029\01_02_0029_(16_11_16_16_23_34)_c.mp4,29,ألف,1000
+sample_download\extracted\0029\01_02_0029_(16_11_16_16_24_20)_c.mp4,29,ألف,1000
+sample_download\extracted\0030\01_02_0030_(15_11_16_17_39_58)_c.mp4,30,مليون,1000000
+sample_download\extracted\0030\01_02_0030_(15_11_16_17_40_00)_c.mp4,30,مليون,1000000
+sample_download\extracted\0030\01_02_0030_(15_11_16_17_40_25)_c.mp4,30,مليون,1000000
+sample_download\extracted\0030\01_02_0030_(16_11_16_16_25_52)_c.mp4,30,مليون,1000000
+sample_download\extracted\0030\01_02_0030_(16_11_16_16_26_10)_c.mp4,30,مليون,1000000
+sample_download\extracted\0030\01_02_0030_(16_11_16_16_26_13)_c.mp4,30,مليون,1000000
+sample_download\extracted\0030\01_02_0030_(16_11_16_16_26_31)_c.mp4,30,مليون,1000000
+sample_download\extracted\0031\01_02_0031_(15_11_16_17_40_59)_c.mp4,31,عشرة ملايين,10000000
+sample_download\extracted\0031\01_02_0031_(15_11_16_17_41_21)_c.mp4,31,عشرة ملايين,10000000
+sample_download\extracted\0031\01_02_0031_(15_11_16_17_41_32)_c.mp4,31,عشرة ملايين,10000000
+sample_download\extracted\0031\01_02_0031_(16_11_16_16_26_54)_c.mp4,31,عشرة ملايين,10000000
+sample_download\extracted\0031\01_02_0031_(16_11_16_16_26_56)_c.mp4,31,عشرة ملايين,10000000
+sample_download\extracted\0031\01_02_0031_(16_11_16_16_26_59)_c.mp4,31,عشرة ملايين,10000000
+sample_download\extracted\0031\01_02_0031_(16_11_16_16_27_12)_c.mp4,31,عشرة ملايين,10000000
+sample_download\extracted\0031\01_02_0031_(16_11_16_16_27_14)_c.mp4,31,عشرة ملايين,10000000
+sample_download\extracted\0032\02_02_0032_(15_11_16_17_43_01)_c.mp4,32,ا,alif
+sample_download\extracted\0032\02_02_0032_(15_11_16_17_43_05)_c.mp4,32,ا,alif
+sample_download\extracted\0032\02_02_0032_(15_11_16_17_43_19)_c.mp4,32,ا,alif
+sample_download\extracted\0032\02_02_0032_(16_11_16_16_28_09)_c.mp4,32,ا,alif
+sample_download\extracted\0032\02_02_0032_(16_11_16_16_28_10)_c.mp4,32,ا,alif
+sample_download\extracted\0032\02_02_0032_(16_11_16_16_28_14)_c.mp4,32,ا,alif
+sample_download\extracted\0032\02_02_0032_(16_11_16_16_28_25)_c.mp4,32,ا,alif
+sample_download\extracted\0032\02_02_0032_(16_11_16_16_28_33)_c.mp4,32,ا,alif
+sample_download\extracted\0033\02_02_0033_(15_11_16_17_44_02)_c.mp4,33,ب,baa
+sample_download\extracted\0033\02_02_0033_(15_11_16_17_44_04)_c.mp4,33,ب,baa
+sample_download\extracted\0033\02_02_0033_(15_11_16_17_44_11)_c.mp4,33,ب,baa
+sample_download\extracted\0033\02_02_0033_(15_11_16_17_44_18)_c.mp4,33,ب,baa
+sample_download\extracted\0033\02_02_0033_(15_11_16_17_44_30)_c.mp4,33,ب,baa
+sample_download\extracted\0033\02_02_0033_(15_11_16_17_44_39)_c.mp4,33,ب,baa
+sample_download\extracted\0033\02_02_0033_(16_11_16_16_29_12)_c.mp4,33,ب,baa
+sample_download\extracted\0033\02_02_0033_(16_11_16_16_29_21)_c.mp4,33,ب,baa
+sample_download\extracted\0034\02_02_0034_(15_11_16_17_44_58)_c.mp4,34,ت,ta
+sample_download\extracted\0034\02_02_0034_(15_11_16_17_45_01)_c.mp4,34,ت,ta
+sample_download\extracted\0034\02_02_0034_(15_11_16_17_45_06)_c.mp4,34,ت,ta
+sample_download\extracted\0034\02_02_0034_(15_11_16_17_45_18)_c.mp4,34,ت,ta
+sample_download\extracted\0034\02_02_0034_(15_11_16_17_45_26)_c.mp4,34,ت,ta
+sample_download\extracted\0034\02_02_0034_(15_11_16_17_45_33)_c.mp4,34,ت,ta
+sample_download\extracted\0034\02_02_0034_(16_11_16_16_29_51)_c.mp4,34,ت,ta
+sample_download\extracted\0034\02_02_0034_(16_11_16_16_30_04)_c.mp4,34,ت,ta
+sample_download\extracted\0035\02_02_0035_(15_11_16_17_46_01)_c.mp4,35,ث,tha
+sample_download\extracted\0035\02_02_0035_(15_11_16_17_46_08)_c.mp4,35,ث,tha
+sample_download\extracted\0035\02_02_0035_(16_11_16_16_30_38)_c.mp4,35,ث,tha
+sample_download\extracted\0035\02_02_0035_(16_11_16_16_30_40)_c.mp4,35,ث,tha
+sample_download\extracted\0035\02_02_0035_(16_11_16_16_30_46)_c.mp4,35,ث,tha
+sample_download\extracted\0035\02_02_0035_(16_11_16_16_30_56)_c.mp4,35,ث,tha
+sample_download\extracted\0035\02_02_0035_(16_11_16_16_31_15)_c.mp4,35,ث,tha
+sample_download\extracted\0035\02_02_0035_(16_11_16_16_31_19)_c.mp4,35,ث,tha
+sample_download\extracted\0036\02_02_0036_(15_11_16_17_47_02)_c.mp4,36,ج,Jiim
+sample_download\extracted\0036\02_02_0036_(15_11_16_17_47_05)_c.mp4,36,ج,Jiim
+sample_download\extracted\0036\02_02_0036_(15_11_16_17_47_15)_c.mp4,36,ج,Jiim
+sample_download\extracted\0036\02_02_0036_(15_11_16_17_47_22)_c.mp4,36,ج,Jiim
+sample_download\extracted\0036\02_02_0036_(15_11_16_17_47_36)_c.mp4,36,ج,Jiim
+sample_download\extracted\0036\02_02_0036_(15_11_16_17_47_43)_c.mp4,36,ج,Jiim
+sample_download\extracted\0036\02_02_0036_(16_11_16_16_32_07)_c.mp4,36,ج,Jiim
+sample_download\extracted\0036\02_02_0036_(16_11_16_16_32_14)_c.mp4,36,ج,Jiim
+sample_download\extracted\0037\02_02_0037_(15_11_16_17_48_02)_c.mp4,37,ح,Haa
+sample_download\extracted\0037\02_02_0037_(15_11_16_17_48_21)_c.mp4,37,ح,Haa
+sample_download\extracted\0037\02_02_0037_(15_11_16_17_48_37)_c.mp4,37,ح,Haa
+sample_download\extracted\0037\02_02_0037_(15_11_16_17_48_41)_c.mp4,37,ح,Haa
+sample_download\extracted\0037\02_02_0037_(15_11_16_17_48_45)_c.mp4,37,ح,Haa
+sample_download\extracted\0037\02_02_0037_(16_11_16_16_32_58)_c.mp4,37,ح,Haa
+sample_download\extracted\0037\02_02_0037_(16_11_16_16_32_59)_c.mp4,37,ح,Haa
+sample_download\extracted\0037\02_02_0037_(16_11_16_16_33_05)_c.mp4,37,ح,Haa
+sample_download\extracted\0038\02_02_0038_(15_11_16_17_49_12)_c.mp4,38,خ,kha
+sample_download\extracted\0038\02_02_0038_(15_11_16_17_49_21)_c.mp4,38,خ,kha
+sample_download\extracted\0038\02_02_0038_(15_11_16_17_49_48)_c.mp4,38,خ,kha
+sample_download\extracted\0038\02_02_0038_(15_11_16_17_49_49)_c.mp4,38,خ,kha
+sample_download\extracted\0038\02_02_0038_(16_11_16_16_33_49)_c.mp4,38,خ,kha
+sample_download\extracted\0038\02_02_0038_(16_11_16_16_33_57)_c.mp4,38,خ,kha
+sample_download\extracted\0038\02_02_0038_(16_11_16_16_34_19)_c.mp4,38,خ,kha
+sample_download\extracted\0038\02_02_0038_(16_11_16_16_34_21)_c.mp4,38,خ,kha
+sample_download\extracted\0039\02_02_0039_(15_11_16_17_50_32)_c.mp4,39,د,daal
+sample_download\extracted\0039\02_02_0039_(15_11_16_17_50_58)_c.mp4,39,د,daal
+sample_download\extracted\0039\02_02_0039_(15_11_16_17_51_04)_c.mp4,39,د,daal
+sample_download\extracted\0039\02_02_0039_(15_11_16_17_51_06)_c.mp4,39,د,daal
+sample_download\extracted\0039\02_02_0039_(16_11_16_16_35_04)_c.mp4,39,د,daal
+sample_download\extracted\0039\02_02_0039_(16_11_16_16_35_12)_c.mp4,39,د,daal
+sample_download\extracted\0039\02_02_0039_(16_11_16_16_35_33)_c.mp4,39,د,daal
+sample_download\extracted\0039\02_02_0039_(16_11_16_16_35_35)_c.mp4,39,د,daal
+sample_download\extracted\0040\02_02_0040_(15_11_16_17_51_38)_c.mp4,40,ذ,thal
+sample_download\extracted\0040\02_02_0040_(15_11_16_17_51_43)_c.mp4,40,ذ,thal
+sample_download\extracted\0040\02_02_0040_(15_11_16_17_51_45)_c.mp4,40,ذ,thal
+sample_download\extracted\0040\02_02_0040_(15_11_16_17_51_51)_c.mp4,40,ذ,thal
+sample_download\extracted\0040\02_02_0040_(15_11_16_17_51_52)_c.mp4,40,ذ,thal
+sample_download\extracted\0040\02_02_0040_(16_11_16_16_35_51)_c.mp4,40,ذ,thal
+sample_download\extracted\0040\02_02_0040_(16_11_16_16_36_03)_c.mp4,40,ذ,thal
+sample_download\extracted\0040\02_02_0040_(16_11_16_16_36_31)_c.mp4,40,ذ,thal
+sample_download\extracted\0041\02_02_0041_(15_11_16_17_53_35)_c.mp4,41,ر,raa
+sample_download\extracted\0041\02_02_0041_(15_11_16_17_54_07)_c.mp4,41,ر,raa
+sample_download\extracted\0041\02_02_0041_(16_11_16_16_36_57)_c.mp4,41,ر,raa
+sample_download\extracted\0041\02_02_0041_(16_11_16_16_37_13)_c.mp4,41,ر,raa
+sample_download\extracted\0041\02_02_0041_(16_11_16_16_37_15)_c.mp4,41,ر,raa
+sample_download\extracted\0041\02_02_0041_(16_11_16_16_37_17)_c.mp4,41,ر,raa
+sample_download\extracted\0041\02_02_0041_(16_11_16_16_37_20)_c.mp4,41,ر,raa
+sample_download\extracted\0041\02_02_0041_(16_11_16_16_37_24)_c.mp4,41,ر,raa
+sample_download\extracted\0042\02_02_0042_(15_11_16_17_54_49)_c.mp4,42,ز,zay
+sample_download\extracted\0042\02_02_0042_(15_11_16_17_54_53)_c.mp4,42,ز,zay
+sample_download\extracted\0042\02_02_0042_(15_11_16_17_55_02)_c.mp4,42,ز,zay
+sample_download\extracted\0042\02_02_0042_(15_11_16_17_55_12)_c.mp4,42,ز,zay
+sample_download\extracted\0042\02_02_0042_(15_11_16_17_55_18)_c.mp4,42,ز,zay
+sample_download\extracted\0042\02_02_0042_(15_11_16_17_55_23)_c.mp4,42,ز,zay
+sample_download\extracted\0042\02_02_0042_(16_11_16_16_37_51)_c.mp4,42,ز,zay
+sample_download\extracted\0042\02_02_0042_(16_11_16_16_38_04)_c.mp4,42,ز,zay
+sample_download\extracted\0043\02_02_0043_(15_11_16_17_56_01)_c.mp4,43,س,siin
+sample_download\extracted\0043\02_02_0043_(15_11_16_17_56_15)_c.mp4,43,س,siin
+sample_download\extracted\0043\02_02_0043_(15_11_16_17_56_19)_c.mp4,43,س,siin
+sample_download\extracted\0043\02_02_0043_(15_11_16_17_56_24)_c.mp4,43,س,siin
+sample_download\extracted\0043\02_02_0043_(16_11_16_16_40_06)_c.mp4,43,س,siin
+sample_download\extracted\0043\02_02_0043_(16_11_16_16_40_19)_c.mp4,43,س,siin
+sample_download\extracted\0043\02_02_0043_(16_11_16_16_40_20)_c.mp4,43,س,siin
+sample_download\extracted\0043\02_02_0043_(16_11_16_16_40_38)_c.mp4,43,س,siin
+sample_download\extracted\0044\02_02_0044_(15_11_16_17_56_51)_c.mp4,44,ش,shiin
+sample_download\extracted\0044\02_02_0044_(15_11_16_17_57_06)_c.mp4,44,ش,shiin
+sample_download\extracted\0044\02_02_0044_(15_11_16_17_57_07)_c.mp4,44,ش,shiin
+sample_download\extracted\0044\02_02_0044_(15_11_16_17_57_31)_c.mp4,44,ش,shiin
+sample_download\extracted\0044\02_02_0044_(16_11_16_16_40_56)_c.mp4,44,ش,shiin
+sample_download\extracted\0044\02_02_0044_(16_11_16_16_41_11)_c.mp4,44,ش,shiin
+sample_download\extracted\0044\02_02_0044_(16_11_16_16_41_26)_c.mp4,44,ش,shiin
+sample_download\extracted\0044\02_02_0044_(16_11_16_16_41_38)_c.mp4,44,ش,shiin
+sample_download\extracted\0045\02_02_0045_(15_11_16_17_58_28)_c.mp4,45,ص,Saad
+sample_download\extracted\0045\02_02_0045_(15_11_16_17_58_30)_c.mp4,45,ص,Saad
+sample_download\extracted\0045\02_02_0045_(15_11_16_17_58_31)_c.mp4,45,ص,Saad
+sample_download\extracted\0045\02_02_0045_(15_11_16_17_58_39)_c.mp4,45,ص,Saad
+sample_download\extracted\0045\02_02_0045_(16_11_16_16_42_24)_c.mp4,45,ص,Saad
+sample_download\extracted\0045\02_02_0045_(16_11_16_16_42_30)_c.mp4,45,ص,Saad
+sample_download\extracted\0045\02_02_0045_(16_11_16_16_42_36)_c.mp4,45,ص,Saad
+sample_download\extracted\0045\02_02_0045_(16_11_16_16_42_46)_c.mp4,45,ص,Saad
+sample_download\extracted\0046\02_02_0046_(15_11_16_17_59_06)_c.mp4,46,ض,Daad
+sample_download\extracted\0046\02_02_0046_(15_11_16_17_59_10)_c.mp4,46,ض,Daad
+sample_download\extracted\0046\02_02_0046_(15_11_16_17_59_26)_c.mp4,46,ض,Daad
+sample_download\extracted\0046\02_02_0046_(15_11_16_17_59_35)_c.mp4,46,ض,Daad
+sample_download\extracted\0046\02_02_0046_(16_11_16_16_43_08)_c.mp4,46,ض,Daad
+sample_download\extracted\0046\02_02_0046_(16_11_16_16_43_23)_c.mp4,46,ض,Daad
+sample_download\extracted\0046\02_02_0046_(16_11_16_16_43_44)_c.mp4,46,ض,Daad
+sample_download\extracted\0046\02_02_0046_(16_11_16_16_43_47)_c.mp4,46,ض,Daad
+sample_download\extracted\0047\02_02_0047_(15_11_16_18_00_23)_c.mp4,47,ط,Taa
+sample_download\extracted\0047\02_02_0047_(15_11_16_18_00_34)_c.mp4,47,ط,Taa
+sample_download\extracted\0047\02_02_0047_(15_11_16_18_00_52)_c.mp4,47,ط,Taa
+sample_download\extracted\0047\02_02_0047_(15_11_16_18_00_55)_c.mp4,47,ط,Taa
+sample_download\extracted\0047\02_02_0047_(16_11_16_16_44_22)_c.mp4,47,ط,Taa
+sample_download\extracted\0047\02_02_0047_(16_11_16_16_44_26)_c.mp4,47,ط,Taa
+sample_download\extracted\0047\02_02_0047_(16_11_16_16_44_42)_c.mp4,47,ط,Taa
+sample_download\extracted\0047\02_02_0047_(16_11_16_16_44_43)_c.mp4,47,ط,Taa
+sample_download\extracted\0048\02_02_0048_(15_11_16_18_01_31)_c.mp4,48,ظ,Zaa
+sample_download\extracted\0048\02_02_0048_(15_11_16_18_01_50)_c.mp4,48,ظ,Zaa
+sample_download\extracted\0048\02_02_0048_(15_11_16_18_02_04)_c.mp4,48,ظ,Zaa
+sample_download\extracted\0048\02_02_0048_(16_11_16_16_45_11)_c.mp4,48,ظ,Zaa
+sample_download\extracted\0048\02_02_0048_(16_11_16_16_45_14)_c.mp4,48,ظ,Zaa
+sample_download\extracted\0048\02_02_0048_(16_11_16_16_45_38)_c.mp4,48,ظ,Zaa
+sample_download\extracted\0048\02_02_0048_(16_11_16_16_45_40)_c.mp4,48,ظ,Zaa
+sample_download\extracted\0048\02_02_0048_(16_11_16_16_45_45)_c.mp4,48,ظ,Zaa
+sample_download\extracted\0049\02_02_0049_(15_11_16_18_02_44)_c.mp4,49,ع,Ayn
+sample_download\extracted\0049\02_02_0049_(15_11_16_18_03_06)_c.mp4,49,ع,Ayn
+sample_download\extracted\0049\02_02_0049_(15_11_16_18_03_29)_c.mp4,49,ع,Ayn
+sample_download\extracted\0049\02_02_0049_(15_11_16_18_03_30)_c.mp4,49,ع,Ayn
+sample_download\extracted\0049\02_02_0049_(16_11_16_16_46_19)_c.mp4,49,ع,Ayn
+sample_download\extracted\0049\02_02_0049_(16_11_16_16_46_33)_c.mp4,49,ع,Ayn
+sample_download\extracted\0049\02_02_0049_(16_11_16_16_46_38)_c.mp4,49,ع,Ayn
+sample_download\extracted\0049\02_02_0049_(16_11_16_16_46_47)_c.mp4,49,ع,Ayn
+sample_download\extracted\0050\02_02_0050_(15_11_16_18_04_10)_c.mp4,50,غ,ghayn
+sample_download\extracted\0050\02_02_0050_(15_11_16_18_04_29)_c.mp4,50,غ,ghayn
+sample_download\extracted\0050\02_02_0050_(15_11_16_18_04_37)_c.mp4,50,غ,ghayn
+sample_download\extracted\0050\02_02_0050_(15_11_16_18_04_39)_c.mp4,50,غ,ghayn
+sample_download\extracted\0050\02_02_0050_(16_11_16_16_47_37)_c.mp4,50,غ,ghayn
+sample_download\extracted\0050\02_02_0050_(16_11_16_16_47_45)_c.mp4,50,غ,ghayn
+sample_download\extracted\0050\02_02_0050_(16_11_16_16_47_56)_c.mp4,50,غ,ghayn
+sample_download\extracted\0050\02_02_0050_(16_11_16_16_48_14)_c.mp4,50,غ,ghayn
+sample_download\extracted\0051\02_02_0051_(15_11_16_18_05_34)_c.mp4,51,ف,faa
+sample_download\extracted\0051\02_02_0051_(15_11_16_18_05_40)_c.mp4,51,ف,faa
+sample_download\extracted\0051\02_02_0051_(15_11_16_18_05_44)_c.mp4,51,ف,faa
+sample_download\extracted\0051\02_02_0051_(15_11_16_18_05_51)_c.mp4,51,ف,faa
+sample_download\extracted\0051\02_02_0051_(15_11_16_18_06_04)_c.mp4,51,ف,faa
+sample_download\extracted\0051\02_02_0051_(15_11_16_18_06_07)_c.mp4,51,ف,faa
+sample_download\extracted\0051\02_02_0051_(16_11_16_16_49_06)_c.mp4,51,ف,faa
+sample_download\extracted\0051\02_02_0051_(16_11_16_16_49_23)_c.mp4,51,ف,faa
+sample_download\extracted\0052\02_02_0052_(15_11_16_18_06_28)_c.mp4,52,ق,qaaf
+sample_download\extracted\0052\02_02_0052_(15_11_16_18_06_39)_c.mp4,52,ق,qaaf
+sample_download\extracted\0052\02_02_0052_(15_11_16_18_06_42)_c.mp4,52,ق,qaaf
+sample_download\extracted\0052\02_02_0052_(15_11_16_18_07_04)_c.mp4,52,ق,qaaf
+sample_download\extracted\0052\02_02_0052_(15_11_16_18_07_06)_c.mp4,52,ق,qaaf
+sample_download\extracted\0052\02_02_0052_(16_11_16_16_49_51)_c.mp4,52,ق,qaaf
+sample_download\extracted\0052\02_02_0052_(16_11_16_16_50_03)_c.mp4,52,ق,qaaf
+sample_download\extracted\0052\02_02_0052_(16_11_16_16_50_20)_c.mp4,52,ق,qaaf
+sample_download\extracted\0053\02_02_0053_(15_11_16_18_07_34)_c.mp4,53,ك,kaaf
+sample_download\extracted\0053\02_02_0053_(15_11_16_18_07_40)_c.mp4,53,ك,kaaf
+sample_download\extracted\0053\02_02_0053_(15_11_16_18_07_54)_c.mp4,53,ك,kaaf
+sample_download\extracted\0053\02_02_0053_(16_11_16_16_50_56)_c.mp4,53,ك,kaaf
+sample_download\extracted\0053\02_02_0053_(16_11_16_16_50_59)_c.mp4,53,ك,kaaf
+sample_download\extracted\0053\02_02_0053_(16_11_16_16_51_02)_c.mp4,53,ك,kaaf
+sample_download\extracted\0053\02_02_0053_(16_11_16_16_51_14)_c.mp4,53,ك,kaaf
+sample_download\extracted\0053\02_02_0053_(16_11_16_16_51_16)_c.mp4,53,ك,kaaf
+sample_download\extracted\0054\02_02_0054_(15_11_16_18_08_32)_c.mp4,54,ل,laam
+sample_download\extracted\0054\02_02_0054_(15_11_16_18_08_35)_c.mp4,54,ل,laam
+sample_download\extracted\0054\02_02_0054_(15_11_16_18_08_58)_c.mp4,54,ل,laam
+sample_download\extracted\0054\02_02_0054_(15_11_16_18_09_02)_c.mp4,54,ل,laam
+sample_download\extracted\0054\02_02_0054_(16_11_16_16_51_33)_c.mp4,54,ل,laam
+sample_download\extracted\0054\02_02_0054_(16_11_16_16_51_47)_c.mp4,54,ل,laam
+sample_download\extracted\0054\02_02_0054_(16_11_16_16_51_53)_c.mp4,54,ل,laam
+sample_download\extracted\0054\02_02_0054_(16_11_16_16_52_11)_c.mp4,54,ل,laam
+sample_download\extracted\0055\02_02_0055_(15_11_16_18_09_28)_c.mp4,55,م,miim
+sample_download\extracted\0055\02_02_0055_(15_11_16_18_09_34)_c.mp4,55,م,miim
+sample_download\extracted\0055\02_02_0055_(15_11_16_18_09_40)_c.mp4,55,م,miim
+sample_download\extracted\0055\02_02_0055_(15_11_16_18_09_41)_c.mp4,55,م,miim
+sample_download\extracted\0055\02_02_0055_(15_11_16_18_09_43)_c.mp4,55,م,miim
+sample_download\extracted\0055\02_02_0055_(15_11_16_18_09_46)_c.mp4,55,م,miim
+sample_download\extracted\0055\02_02_0055_(16_11_16_16_52_57)_c.mp4,55,م,miim
+sample_download\extracted\0055\02_02_0055_(16_11_16_16_53_00)_c.mp4,55,م,miim
+sample_download\extracted\0056\02_02_0056_(15_11_16_18_10_42)_c.mp4,56,ن,noon
+sample_download\extracted\0056\02_02_0056_(15_11_16_18_10_46)_c.mp4,56,ن,noon
+sample_download\extracted\0056\02_02_0056_(15_11_16_18_10_47)_c.mp4,56,ن,noon
+sample_download\extracted\0056\02_02_0056_(15_11_16_18_10_51)_c.mp4,56,ن,noon
+sample_download\extracted\0056\02_02_0056_(15_11_16_18_11_06)_c.mp4,56,ن,noon
+sample_download\extracted\0056\02_02_0056_(16_11_16_16_53_23)_c.mp4,56,ن,noon
+sample_download\extracted\0056\02_02_0056_(16_11_16_16_53_35)_c.mp4,56,ن,noon
+sample_download\extracted\0056\02_02_0056_(16_11_16_16_53_53)_c.mp4,56,ن,noon
+sample_download\extracted\0057\02_02_0057_(15_11_16_18_11_33)_c.mp4,57,ه,haa
+sample_download\extracted\0057\02_02_0057_(15_11_16_18_11_41)_c.mp4,57,ه,haa
+sample_download\extracted\0057\02_02_0057_(15_11_16_18_11_56)_c.mp4,57,ه,haa
+sample_download\extracted\0057\02_02_0057_(15_11_16_18_12_00)_c.mp4,57,ه,haa
+sample_download\extracted\0057\02_02_0057_(15_11_16_18_12_21)_c.mp4,57,ه,haa
+sample_download\extracted\0057\02_02_0057_(16_11_16_16_54_05)_c.mp4,57,ه,haa
+sample_download\extracted\0057\02_02_0057_(16_11_16_16_54_11)_c.mp4,57,ه,haa
+sample_download\extracted\0057\02_02_0057_(16_11_16_16_54_36)_c.mp4,57,ه,haa
+sample_download\extracted\0058\02_02_0058_(15_11_16_18_12_59)_c.mp4,58,و,waaw
+sample_download\extracted\0058\02_02_0058_(15_11_16_18_13_01)_c.mp4,58,و,waaw
+sample_download\extracted\0058\02_02_0058_(15_11_16_18_13_31)_c.mp4,58,و,waaw
+sample_download\extracted\0058\02_02_0058_(15_11_16_18_13_35)_c.mp4,58,و,waaw
+sample_download\extracted\0058\02_02_0058_(16_11_16_16_54_51)_c.mp4,58,و,waaw
+sample_download\extracted\0058\02_02_0058_(16_11_16_16_54_52)_c.mp4,58,و,waaw
+sample_download\extracted\0058\02_02_0058_(16_11_16_16_54_54)_c.mp4,58,و,waaw
+sample_download\extracted\0058\02_02_0058_(16_11_16_16_55_26)_c.mp4,58,و,waaw
+sample_download\extracted\0059\02_02_0059_(15_11_16_18_14_00)_c.mp4,59,ي,yaa
+sample_download\extracted\0059\02_02_0059_(15_11_16_18_14_04)_c.mp4,59,ي,yaa
+sample_download\extracted\0059\02_02_0059_(15_11_16_18_14_14)_c.mp4,59,ي,yaa
+sample_download\extracted\0059\02_02_0059_(15_11_16_18_14_31)_c.mp4,59,ي,yaa
+sample_download\extracted\0059\02_02_0059_(15_11_16_18_14_44)_c.mp4,59,ي,yaa
+sample_download\extracted\0059\02_02_0059_(16_11_16_16_55_57)_c.mp4,59,ي,yaa
+sample_download\extracted\0059\02_02_0059_(16_11_16_16_56_03)_c.mp4,59,ي,yaa
+sample_download\extracted\0059\02_02_0059_(16_11_16_16_56_28)_c.mp4,59,ي,yaa
+sample_download\extracted\0060\02_02_0060_(15_11_16_18_15_18)_c.mp4,60,ة,taa marbuuTa
+sample_download\extracted\0060\02_02_0060_(15_11_16_18_16_08)_c.mp4,60,ة,taa marbuuTa
+sample_download\extracted\0060\02_02_0060_(16_11_16_17_13_51)_c.mp4,60,ة,taa marbuuTa
+sample_download\extracted\0060\02_02_0060_(16_11_16_17_13_53)_c.mp4,60,ة,taa marbuuTa
+sample_download\extracted\0060\02_02_0060_(16_11_16_17_14_03)_c.mp4,60,ة,taa marbuuTa
+sample_download\extracted\0060\02_02_0060_(16_11_16_17_14_07)_c.mp4,60,ة,taa marbuuTa
+sample_download\extracted\0060\02_02_0060_(16_11_16_17_14_30)_c.mp4,60,ة,taa marbuuTa
+sample_download\extracted\0060\02_02_0060_(16_11_16_17_14_31)_c.mp4,60,ة,taa marbuuTa
+sample_download\extracted\0061\02_02_0061_(15_11_16_18_17_03)_c.mp4,61,أ,alif with hamza above
+sample_download\extracted\0061\02_02_0061_(15_11_16_18_17_28)_c.mp4,61,أ,alif with hamza above
+sample_download\extracted\0061\02_02_0061_(16_11_16_17_15_01)_c.mp4,61,أ,alif with hamza above
+sample_download\extracted\0061\02_02_0061_(16_11_16_17_15_07)_c.mp4,61,أ,alif with hamza above
+sample_download\extracted\0061\02_02_0061_(16_11_16_17_15_16)_c.mp4,61,أ,alif with hamza above
+sample_download\extracted\0061\02_02_0061_(16_11_16_17_15_18)_c.mp4,61,أ,alif with hamza above
+sample_download\extracted\0061\02_02_0061_(16_11_16_17_15_38)_c.mp4,61,أ,alif with hamza above
+sample_download\extracted\0061\02_02_0061_(16_11_16_17_15_40)_c.mp4,61,أ,alif with hamza above
+sample_download\extracted\0062\02_02_0062_(15_11_16_18_18_08)_c.mp4,62,ؤ,Waaw with hamza
+sample_download\extracted\0062\02_02_0062_(15_11_16_18_18_15)_c.mp4,62,ؤ,Waaw with hamza
+sample_download\extracted\0062\02_02_0062_(15_11_16_18_18_22)_c.mp4,62,ؤ,Waaw with hamza
+sample_download\extracted\0062\02_02_0062_(15_11_16_18_18_24)_c.mp4,62,ؤ,Waaw with hamza
+sample_download\extracted\0062\02_02_0062_(15_11_16_18_18_46)_c.mp4,62,ؤ,Waaw with hamza
+sample_download\extracted\0062\02_02_0062_(16_11_16_17_16_13)_c.mp4,62,ؤ,Waaw with hamza
+sample_download\extracted\0062\02_02_0062_(16_11_16_17_16_21)_c.mp4,62,ؤ,Waaw with hamza
+sample_download\extracted\0062\02_02_0062_(16_11_16_17_16_22)_c.mp4,62,ؤ,Waaw with hamza
+sample_download\extracted\0063\02_02_0063_(15_11_16_18_19_28)_c.mp4,63,ئ,Alif maqsoura with hamza
+sample_download\extracted\0063\02_02_0063_(15_11_16_18_19_31)_c.mp4,63,ئ,Alif maqsoura with hamza
+sample_download\extracted\0063\02_02_0063_(15_11_16_18_20_00)_c.mp4,63,ئ,Alif maqsoura with hamza
+sample_download\extracted\0063\02_02_0063_(15_11_16_18_20_05)_c.mp4,63,ئ,Alif maqsoura with hamza
+sample_download\extracted\0063\02_02_0063_(15_11_16_18_20_09)_c.mp4,63,ئ,Alif maqsoura with hamza
+sample_download\extracted\0063\02_02_0063_(15_11_16_18_20_15)_c.mp4,63,ئ,Alif maqsoura with hamza
+sample_download\extracted\0063\02_02_0063_(16_11_16_17_17_30)_c.mp4,63,ئ,Alif maqsoura with hamza
+sample_download\extracted\0063\02_02_0063_(16_11_16_17_17_35)_c.mp4,63,ئ,Alif maqsoura with hamza
+sample_download\extracted\0064\02_02_0064_(15_11_16_18_21_29)_c.mp4,64,ئـ,hamza on line
+sample_download\extracted\0064\02_02_0064_(15_11_16_18_21_31)_c.mp4,64,ئـ,hamza on line
+sample_download\extracted\0064\02_02_0064_(15_11_16_18_21_36)_c.mp4,64,ئـ,hamza on line
+sample_download\extracted\0064\02_02_0064_(15_11_16_18_21_47)_c.mp4,64,ئـ,hamza on line
+sample_download\extracted\0064\02_02_0064_(15_11_16_18_21_49)_c.mp4,64,ئـ,hamza on line
+sample_download\extracted\0064\02_02_0064_(16_11_16_17_18_21)_c.mp4,64,ئـ,hamza on line
+sample_download\extracted\0064\02_02_0064_(16_11_16_17_18_33)_c.mp4,64,ئـ,hamza on line
+sample_download\extracted\0064\02_02_0064_(16_11_16_17_18_48)_c.mp4,64,ئـ,hamza on line
+sample_download\extracted\0065\02_02_0065_(15_11_16_18_22_41)_c.mp4,65,ء,hamza
+sample_download\extracted\0065\02_02_0065_(15_11_16_18_22_59)_c.mp4,65,ء,hamza
+sample_download\extracted\0065\02_02_0065_(15_11_16_18_23_15)_c.mp4,65,ء,hamza
+sample_download\extracted\0065\02_02_0065_(15_11_16_18_23_28)_c.mp4,65,ء,hamza
+sample_download\extracted\0065\02_02_0065_(16_11_16_17_19_16)_c.mp4,65,ء,hamza
+sample_download\extracted\0065\02_02_0065_(16_11_16_17_19_25)_c.mp4,65,ء,hamza
+sample_download\extracted\0065\02_02_0065_(16_11_16_17_19_44)_c.mp4,65,ء,hamza
+sample_download\extracted\0065\02_02_0065_(16_11_16_17_19_46)_c.mp4,65,ء,hamza
+sample_download\extracted\0066\02_02_0066_(15_11_16_18_24_25)_c.mp4,66,إ,alif with hamza below
+sample_download\extracted\0066\02_02_0066_(15_11_16_18_24_27)_c.mp4,66,إ,alif with hamza below
+sample_download\extracted\0066\02_02_0066_(15_11_16_18_24_38)_c.mp4,66,إ,alif with hamza below
+sample_download\extracted\0066\02_02_0066_(15_11_16_18_24_45)_c.mp4,66,إ,alif with hamza below
+sample_download\extracted\0066\02_02_0066_(15_11_16_18_25_00)_c.mp4,66,إ,alif with hamza below
+sample_download\extracted\0066\02_02_0066_(15_11_16_18_25_09)_c.mp4,66,إ,alif with hamza below
+sample_download\extracted\0066\02_02_0066_(16_11_16_17_20_11)_c.mp4,66,إ,alif with hamza below
+sample_download\extracted\0066\02_02_0066_(16_11_16_17_20_12)_c.mp4,66,إ,alif with hamza below
+sample_download\extracted\0067\02_02_0067_(15_11_16_18_25_52)_c.mp4,67,آ,ALif with maad
+sample_download\extracted\0067\02_02_0067_(15_11_16_18_26_15)_c.mp4,67,آ,ALif with maad
+sample_download\extracted\0067\02_02_0067_(15_11_16_18_26_19)_c.mp4,67,آ,ALif with maad
+sample_download\extracted\0067\02_02_0067_(15_11_16_18_26_21)_c.mp4,67,آ,ALif with maad
+sample_download\extracted\0067\02_02_0067_(16_11_16_17_21_25)_c.mp4,67,آ,ALif with maad
+sample_download\extracted\0067\02_02_0067_(16_11_16_17_21_36)_c.mp4,67,آ,ALif with maad
+sample_download\extracted\0067\02_02_0067_(16_11_16_17_21_50)_c.mp4,67,آ,ALif with maad
+sample_download\extracted\0067\02_02_0067_(16_11_16_17_21_56)_c.mp4,67,آ,ALif with maad
+sample_download\extracted\0068\02_02_0068_(15_11_16_18_27_43)_c.mp4,68,ى,Alif maqsoura
+sample_download\extracted\0068\02_02_0068_(15_11_16_18_27_46)_c.mp4,68,ى,Alif maqsoura
+sample_download\extracted\0068\02_02_0068_(15_11_16_18_27_53)_c.mp4,68,ى,Alif maqsoura
+sample_download\extracted\0068\02_02_0068_(15_11_16_18_28_06)_c.mp4,68,ى,Alif maqsoura
+sample_download\extracted\0068\02_02_0068_(16_11_16_17_22_22)_c.mp4,68,ى,Alif maqsoura
+sample_download\extracted\0068\02_02_0068_(16_11_16_17_22_24)_c.mp4,68,ى,Alif maqsoura
+sample_download\extracted\0068\02_02_0068_(16_11_16_17_22_28)_c.mp4,68,ى,Alif maqsoura
+sample_download\extracted\0068\02_02_0068_(16_11_16_17_22_47)_c.mp4,68,ى,Alif maqsoura
+sample_download\extracted\0069\02_02_0069_(15_11_16_18_28_43)_c.mp4,69,لا,laam Alif
+sample_download\extracted\0069\02_02_0069_(15_11_16_18_28_51)_c.mp4,69,لا,laam Alif
+sample_download\extracted\0069\02_02_0069_(15_11_16_18_28_58)_c.mp4,69,لا,laam Alif
+sample_download\extracted\0069\02_02_0069_(15_11_16_18_29_03)_c.mp4,69,لا,laam Alif
+sample_download\extracted\0069\02_02_0069_(15_11_16_18_29_05)_c.mp4,69,لا,laam Alif
+sample_download\extracted\0069\02_02_0069_(16_11_16_17_23_33)_c.mp4,69,لا,laam Alif
+sample_download\extracted\0069\02_02_0069_(16_11_16_17_23_43)_c.mp4,69,لا,laam Alif
+sample_download\extracted\0069\02_02_0069_(16_11_16_17_23_54)_c.mp4,69,لا,laam Alif
+sample_download\extracted\0070\02_02_0070_(15_11_16_18_29_58)_c.mp4,70,ال,Al
+sample_download\extracted\0070\02_02_0070_(15_11_16_18_30_02)_c.mp4,70,ال,Al
+sample_download\extracted\0070\02_02_0070_(15_11_16_18_30_04)_c.mp4,70,ال,Al
+sample_download\extracted\0070\02_02_0070_(15_11_16_18_30_11)_c.mp4,70,ال,Al
+sample_download\extracted\0070\02_02_0070_(15_11_16_18_30_15)_c.mp4,70,ال,Al
+sample_download\extracted\0070\02_02_0070_(16_11_16_17_24_41)_c.mp4,70,ال,Al
+sample_download\extracted\0070\02_02_0070_(16_11_16_17_25_00)_c.mp4,70,ال,Al
+sample_download\extracted\0070\02_02_0070_(16_11_16_17_25_01)_c.mp4,70,ال,Al

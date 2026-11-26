@@ -1,0 +1,16 @@
+.venv/
+venv/
+env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+sample_download/
+sample_download.7z
+token.json
+.env
+.env.*
+signbridge_history.db
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

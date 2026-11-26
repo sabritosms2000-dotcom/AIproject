@@ -1,0 +1,90 @@
+﻿true_class,true_label,pred_class,pred_label,count
+5,5,9,9,4
+38,daal,40,raa,4
+2,2,3,3,3
+6,6,14,50,3
+31,alif,24,600,3
+42,siin,61,Waaw with hamza,3
+48,Ayn,41,zay,3
+49,ghayn,31,alif,3
+57,waaw,61,Waaw with hamza,3
+61,Waaw with hamza,5,5,3
+68,laam Alif,56,haa,3
+0,0,66,ALif with maad,2
+4,4,9,9,2
+7,7,25,700,2
+8,8,9,9,2
+11,20,10,10,2
+11,20,16,70,2
+14,50,18,90,2
+15,60,16,70,2
+16,70,17,80,2
+17,80,16,70,2
+21,300,3,3,2
+22,400,21,300,2
+25,700,26,800,2
+26,800,27,900,2
+28,1000,34,tha,2
+29,1000000,28,1000,2
+30,10000000,5,5,2
+34,tha,59,taa marbuuTa,2
+36,Haa,57,waaw,2
+37,kha,40,raa,2
+37,kha,49,ghayn,2
+39,thal,41,zay,2
+43,shiin,42,siin,2
+43,shiin,56,haa,2
+44,Saad,53,laam,2
+46,Taa,41,zay,2
+47,Zaa,39,thal,2
+50,faa,60,alif with hamza above,2
+51,qaaf,59,taa marbuuTa,2
+52,kaaf,56,haa,2
+53,laam,69,Al,2
+54,miim,52,kaaf,2
+62,Alif maqsoura with hamza,60,alif with hamza above,2
+63,hamza on line,51,qaaf,2
+67,Alif maqsoura,62,Alif maqsoura with hamza,2
+69,Al,32,baa,2
+1,1,49,ghayn,1
+8,8,7,7,1
+9,9,5,5,1
+9,9,27,900,1
+10,10,3,3,1
+10,10,8,8,1
+12,30,13,40,1
+13,40,4,4,1
+15,60,17,80,1
+19,100,20,200,1
+20,200,19,100,1
+22,400,4,4,1
+23,500,9,9,1
+26,800,19,100,1
+27,900,5,5,1
+27,900,9,9,1
+27,900,25,700,1
+30,10000000,67,Alif maqsoura,1
+33,ta,34,tha,1
+33,ta,59,taa marbuuTa,1
+40,raa,38,daal,1
+40,raa,41,zay,1
+44,Saad,0,0,1
+44,Saad,52,kaaf,1
+48,Ayn,14,50,1
+51,qaaf,44,Saad,1
+52,kaaf,42,siin,1
+53,laam,45,Daad,1
+53,laam,62,Alif maqsoura with hamza,1
+55,noon,61,Waaw with hamza,1
+56,haa,34,tha,1
+56,haa,52,kaaf,1
+56,haa,54,miim,1
+57,waaw,37,kha,1
+58,yaa,45,Daad,1
+59,taa marbuuTa,28,1000,1
+59,taa marbuuTa,32,baa,1
+60,alif with hamza above,40,raa,1
+63,hamza on line,66,ALif with maad,1
+67,Alif maqsoura,45,Daad,1
+67,Alif maqsoura,58,yaa,1
+69,Al,39,thal,1
